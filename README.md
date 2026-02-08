@@ -1,4 +1,4 @@
-## TikTok Full API Pro v2.9.1 (2025) 
+## TikTok Full API Pro v2.9.1 (2026) 
 
 🇨🇳 专为中国市场优化 / Optimized for China Market 🇨🇳
 
@@ -29,7 +29,7 @@
 
 ## 📞 联系 Contact:
 
-👉 Telegram: [@danirueaq](https://t.me/danirueaq)  
+👉 Telegram: [@mariabosser](https://t.me/mariabosser)
 
 telegram channel : https://t.me/Sectools1
 
